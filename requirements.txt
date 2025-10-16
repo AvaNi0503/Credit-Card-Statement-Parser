@@ -1,0 +1,12 @@
+# PDF Credit Card Statement Parser Requirements
+
+# PDF Processing Libraries
+PyPDF2>=3.0.1
+pdfplumber>=0.9.0
+
+# Web Framework (optional - only needed for web interface)
+Flask>=2.3.0
+Werkzeug>=2.3.0
+
+# Standard libraries (already included in Python)
+# re, json, os, datetime
